@@ -4,7 +4,7 @@ Developer: Shubham Kumar<br/>
 Project Initiation Date: 5th February, 2021<br/>
 E-mail: shubhamxst@gmail.com
 ---------------------------------------------------------------------------------------------------------------------------
-<em>extcopy</> command in windows allows the user to copy all files which end with<br/>
+<em>extcopy</em> command in windows allows the user to copy all files which end with<br/>
 specified [extension], from the [source] folder to [destination] folder.<br/>
 It is developed using CodeBlocks(MingW) IDE and Windows 10.
 ---------------------------------------------------------------------------------------------------------------------------
