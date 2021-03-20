@@ -1,0 +1,5 @@
+# Ignore these files while staging (specified by Shubham Kumar)
+extcopy/extcopy.obj
+extcopy/extcopy.layout
+extcopy/obj/Debug/main.o
+extcopy/extcopy.cbp
