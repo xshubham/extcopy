@@ -9,8 +9,8 @@ specified [extension], from the [source] folder to [destination] folder.<br/>
 It is developed using CodeBlocks(MingW) IDE and Windows 10.
 
 # syntax
-extcopy [source] [destination] .extension<br/>
-for example: extcopy c:/users/user1/downloads/ c:/users/user1/desktop/new/ .txt
----------------------------------------------------------------------------------------------------------------------------
+<b>extcopy [source] [destination] .extension</b><br/>
+for example:<br/> extcopy c:/users/user1/downloads/ c:/users/user1/desktop/new/ .txt
+
 # binary-package
 <a href="extcopy v0.1">https://github.com/xshubham/extcopy/raw/main/extcopy/bin/Debug/extcopy.exe</a>
