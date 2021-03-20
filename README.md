@@ -7,7 +7,7 @@ E-mail: shubhamxst@gmail.com
 <em>extcopy</em> command in windows allows the user to copy all files which end with<br/>
 specified [extension], from the [source] folder to [destination] folder.<br/>
 It is developed using CodeBlocks(MingW) IDE and Windows 10.
----------------------------------------------------------------------------------------------------------------------------
+
 # syntax
 extcopy [source] [destination] .extension<br/>
 for example: extcopy c:/users/user1/downloads/ c:/users/user1/desktop/new/ .txt
